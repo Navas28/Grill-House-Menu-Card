@@ -8,7 +8,7 @@ This is a **Menu Card** featuring a slider and multiple cards to display content
 - Smooth UI with modern design  
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot path -->
+![App Screenshot](./public/home-page.png) <!-- Replace with your actual screenshot path -->
 
 ## 🌐 Live Demo
 [Click Here to View the App](https://grillhouse-menucard.netlify.app/) <!-- Replace with your live link -->
