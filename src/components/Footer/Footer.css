@@ -1,0 +1,33 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 20px;
+}
+.icon svg {
+    font-size: 30px;
+    color: crimson;
+    cursor: pointer;
+    transition: transform 0.3s, color 0.3s;
+    margin-left: 10px;
+}
+.icon svg:hover {
+    transform: scale(1.2);
+}
+@media (max-width: 768px) {
+    .icon svg {
+        font-size: 26px;
+        margin-left: 8px;
+    }
+}
+@media (max-width: 480px) {
+    footer {
+        padding: 15px;
+    }
+    .icon svg {
+        font-size: 24px;
+        margin-left: 6px;
+    }
+}
