@@ -1,8 +1,19 @@
-# React + Vite
+# Menu Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Menu Card** featuring a slider and multiple cards to display content dynamically.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Beauitfull **Image Slider**  
+- Interactive **Cards**  
+- Smooth UI with modern design  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+![App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot path -->
+
+## 🌐 Live Demo
+[Click Here to View the App](https://grillhouse-menucard.netlify.app/) <!-- Replace with your live link -->
+
+## 🛠️ Technologies Used
+- **React**  
+- **CSS**  
+- **JavaScript**  
