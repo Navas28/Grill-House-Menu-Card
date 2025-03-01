@@ -3,7 +3,7 @@
 This is a **Menu Card** featuring a slider and multiple cards to display content dynamically.
 
 ## 🚀 Features
-- Beauitfull **Image Slider**  
+- Beautiful **Image Slider**  
 - Interactive **Cards**  
 - Smooth UI with modern design  
 
